@@ -1,4 +1,4 @@
-# Shaurya's Zen Rice
+# Shaurya's Clean Zen Rice
 Very Beautiful Blur theme for Zen Browser (based on Bubble css &amp; Catppuccin)
 
 ### How to set it for yourself
