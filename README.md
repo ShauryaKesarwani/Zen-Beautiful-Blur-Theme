@@ -23,6 +23,12 @@ My userChrome and userContent files available in the repo file directory above.
 - `tab.groups.borders` ->	true
 - `tab.groups.theme-folders` ->	true
 
+### Wallpaper and Colours
+---
+![image](https://github.com/user-attachments/assets/37ba45aa-27ed-4250-9e00-d8fc069d5ade)
+![cyberpunk lucy](https://github.com/user-attachments/assets/1e1e138b-7111-4182-b5fe-e51ee5ec946f)
+
+
 ### Inspiration and help from!
 ---
 - Original Website CSS by: https://github.com/nieffka/bubble-clean-zen/
