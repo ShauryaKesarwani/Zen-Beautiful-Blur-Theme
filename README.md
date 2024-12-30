@@ -17,11 +17,11 @@ My userChrome and userContent files available in the repo file directory above.
 
 ### About config
 ---
-`browser.tabs.groups.enabled` -> true
-`tab.groups.add-arrow` ->	true	
-`tab.groups.background`	-> true	
-`tab.groups.borders` ->	true
-`tab.groups.theme-folders` ->	true
+- `browser.tabs.groups.enabled` -> true
+- `tab.groups.add-arrow` ->	true	
+- `tab.groups.background`	-> true	
+- `tab.groups.borders` ->	true
+- `tab.groups.theme-folders` ->	true
 
 ### Inspiration and help from!
 ---
