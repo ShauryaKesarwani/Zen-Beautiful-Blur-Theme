@@ -15,6 +15,8 @@ My userChrome and userContent files available in the repo file directory above.
 
   - Tutorial here: https://docs.zen-browser.app/guides/live-editing
 
+- Install Catppuccin (Mocha) Styles from: https://github.com/catppuccin/catppuccin (Used: Reddit, Youtube, Github, Google, Google Drive)
+
 ### About config
 ---
 - `browser.tabs.groups.enabled` -> true
