@@ -36,6 +36,8 @@ My userChrome and userContent files available in the repo file directory above.
 - `tab.groups.background`	-> true	
 - `tab.groups.borders` ->	true
 - `tab.groups.theme-folders` ->	true
+- `widget.windows.mica` -> true
+- `browser.tabs.allow_transparent_browser` -> true
 
 ### Wallpaper and Colours
 ---
